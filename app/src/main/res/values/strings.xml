@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">Day Two RoomResearch</string>
+    <string name="dipesh_lama">Dipesh Lama</string>
+    <string name="pepsicola">pepsicola</string>
+    <string name="_9841858534">9841858534</string>
+    <string name="add_edit_student">Add/edit Student</string>
+    <string name="name">Name</string>
+    <string name="address">Address</string>
+    <string name="phone">Phone</string>
+    <string name="cancel">Cancel</string>
+    <string name="ok">Ok</string>
+</resources>
